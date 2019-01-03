@@ -62,7 +62,7 @@ nav a{
     background-color: rgba(241, 211, 79, 0.15);   
 }
 
-.menu-loisirs:hover, .competences{
+.menu-loisirs:hover, .competence{
     border-top: 5px solid #0070bb;
     background-color: RGBA(000,112,192,0.15);
 }
